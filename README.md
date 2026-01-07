@@ -4,7 +4,7 @@
 
 <!--其实对于越狱开发来说，目前更推荐使用 Lookin 查看 UI ，Lookin 支持命令调试，可以直接在 Lookin 调试 UI。Lookin Loader 作者也已经发布并开源了。-->
 
-使用的 RevealServer.framework 版本是 Version 46。如果版本不符合你电脑上的 Reveal 版本，可以自行替换：
+<del>使用的 RevealServer.framework 版本是 Version 46。</del>2026年01月07日将插件默认的 RevealServer.framework 版本更新到 Version 50。如果版本不符合你电脑上的 Reveal 版本，可以自行替换：
 
 1. 对于 rootful 越狱，你可以将你 Mac 电脑上 Reveal 的 RevealServer.framework 安装到越狱设备的 /Library/Frameworks 下
 2. 对于 rootless 越狱，将 Mac 电脑上 Reveal 的 RevealServer.framework        安装到越狱设备的 /var/jb/Library/Frameworks 下

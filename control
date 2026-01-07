@@ -1,9 +1,9 @@
 Package: com.masterking.revealloader2
 Name: RevealLoader2
-Version: 0.0.1
+Version: 0.0.3
 Architecture: iphoneos-arm
 Description: Dynamically loads RevealServer.framework into iOS applications.
 Maintainer: masterKing <masterking1012@gmail.com>
 Author: masterKing <masterking1012@gmail.com>
-Section: System
+Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader

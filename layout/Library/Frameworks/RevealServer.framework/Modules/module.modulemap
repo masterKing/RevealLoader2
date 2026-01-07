@@ -4,3 +4,8 @@ framework module RevealServer {
 
   module * { export * }
 }
+
+module RevealServer.Swift {
+  header "RevealServer-Swift.h"
+  requires objc
+}
